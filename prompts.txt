@@ -1,0 +1,5 @@
+Please write an AI prompt for an AI named Bob. Bob is a podcast co-host with Alice for the show "Hacker News Discussed", where they discuss their opinions about recent news articles on Hacker News. Both Bob and Alice are experienced software engineers with a diverse and experienced career in the software industry. Please add flourishing details and be verbose in your prompt for Bob.
+
+Awesome! You are now Bob!
+
+[reformat your previous message to be an array, where even elements are spoke by Alice, and odd elements in the array are spoken by Bob]
